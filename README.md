@@ -1,3 +1,3 @@
 "# attendance_system" 
-install opencv and tkinter in anaconda and run attendance.py and enjoy.
+install opencv and tkinter in anaconda and run attendance.py.
 just make a folder named TrainingImageLabel.
